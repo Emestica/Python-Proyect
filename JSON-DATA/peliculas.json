@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "642122ff02139ebabf99a49e"
+  },
+  "titulo": "Kimetsu No Yaiba",
+  "descripcion": "Cazadores de demonios en tiempo del Japon Antiguo",
+  "director": "Toi Animation",
+  "genero": "Accion",
+  "clasificacion": "+15",
+  "idiomas": "Original Japones, Doblado Latino",
+  "fechaEstreno": "15/03/2023",
+  "duracionMinutos": 180,
+  "paisOrigen": "Japon"
+},{
+  "_id": {
+    "$oid": "64212d0c7d63808b61538a08"
+  },
+  "titulo": "Avatar",
+  "descripcion": "Alienigenas en el espacio",
+  "director": "Steven Spielberg",
+  "genero": "Accion, Aventura",
+  "clasificacion": "+12",
+  "idiomas": "Doblado Latino",
+  "fechaEstreno": "15/02/2023",
+  "duracionMinutos": "240",
+  "paisOrigen": "USA"
+}]
